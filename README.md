@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 medhat</h1>
 <h3 align="center">hi, i'm Medhat Ashour, a passionate self-taught full stack (web & desktop) developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medhatjachour&label=Profile%20views&color=0e75b6&style=flat" alt="medhatjachour" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=medhatjachour&label=Profile%20views&color=0e75b6&style=flat" alt="medhatjachour" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/medhatjachour" target="blank"><img src="https://img.shields.io/twitter/follow/medhatjachour?logo=twitter&style=for-the-badge" alt="medhatjachour" /></a> </p>
+<p align="center"> <a href="https://twitter.com/medhatjachour" target="blank"><img src="https://img.shields.io/twitter/follow/medhatjachour?logo=twitter&style=for-the-badge" alt="medhatjachour" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/medhatjachour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medhatjachour" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/medhatjachour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medhatjachour" height="30" width="40" /></a>
 </p>
