@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 medhat</h1>
-<h3 align="center">hi, i'm Medhat Ashour, a passionate self-taught full stack (web & desktop) developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">hi, i'm Medhat Ashour, a passionate full stack (web & desktop) developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=medhatjachour&label=Profile%20views&color=0e75b6&style=flat" alt="medhatjachour" /> </p>
 
