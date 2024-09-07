@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced React and TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, and Full Stack Development**
+- 💬 Ask me about **JavaScript, React, Python, PyQt and Full Stack Development**
 - 📫 How to reach me **medhatashour19@gmail.com**
 - ⚡ Fun fact **I love to play chess and solve puzzles**
 ---
