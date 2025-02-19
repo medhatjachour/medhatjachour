@@ -1,64 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Medhat Ashour</h1>
-<h3 align="center">A passionate Software Engineer and Freelance Software Engineer from Egypt</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=medhatjachour&label=Profile%20views&color=0e75b6&style=flat" alt="medhatjachour" /> </p>
-<p align="center"> <a href="https://twitter.com/medhatjachour" target="blank"><img src="https://img.shields.io/twitter/follow/medhatjachour?logo=twitter&style=for-the-badge" alt="medhatjachour" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/medhatjachour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medhatjachour" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/medhatjachour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medhatjachour" height="30" width="40" /></a>
-</p>
----
-### About Me
 
-- 🌱 I’m currently learning **Advanced React and TypeScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Python, PyQt and Full Stack Development**
-- 📫 How to reach me **medhatashour19@gmail.com**
-- ⚡ Fun fact **I love to play chess and solve puzzles**
+# 👋 Hi, I'm Medhat Jachour  
+
+![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)  
+
+I'm a passionate **Full-Stack Developer** with a love for building scalable, user-friendly applications. I enjoy turning ideas into reality through clean code and innovative solutions.  
+
 ---
 
+## 🛠️ Technologies & Tools  
 
-### Languages and Tools:
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
- </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-  </a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
- <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
-  </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects  
+
+### 1. [Project Management App](https://github.com/medhatjachour/project-manegment-app)  
+A full-stack project management tool built with React, Node.js, and MongoDB. Features include task management, real-time updates, and user authentication.  
+
+### 2. [E-Commerce Platform](https://github.com/medhatjachour/e-commerce-app)  
+An e-commerce application with a responsive design, product search, and payment integration.  
+
+### 3. [Portfolio Website](https://github.com/medhatjachour/portfolio)  
+My personal portfolio website showcasing my projects, skills, and contact information.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Medhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medhatjachour&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medhatjachour&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Let's Connect  
+
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medhatjachour/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medhatjachour)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhatjachour@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://medhatjachour.com)
+
+---
+
+##
