@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Available+for+Freelance+Projects+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Specialized+in+React+%26+Modern+Web+Tech+%E2%9A%9B%EF%B8%8F;Desktop+%26+Mobile+App+Developer+%F0%9F%92%BB%F0%9F%93%B1;Available+for+Freelance+Projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- 3D Contribution Snake -->
@@ -32,46 +32,53 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 </h2>
 
-```javascript
+```typescript
 class SoftwareEngineer {
   constructor() {
     this.name = "Medhat Ashour";
     this.role = "Full Stack Software Engineer";
     this.location = "Egypt 🇪🇬";
     this.website = "https://medhatjachour.com";
+    this.email = "medhatashour19@gmail.com";
     this.availability = "Open for Freelance 💼";
   }
 
   getCurrentFocus() {
     return [
-      "Building scalable web applications 🚀",
-      "Mastering advanced React patterns ⚛️",
-      "Exploring cloud architecture ☁️",
-      "Contributing to open source 🌟"
+      "Building scalable web & desktop applications 🚀",
+      "Cross-platform development (Web, Desktop, Mobile) 📱💻",
+      "Advanced React patterns & TypeScript ⚛️",
+      "3D web experiences with Three.js 🎨",
+      "Exploring cloud architecture ☁️"
     ];
   }
 
   getSkills() {
     return {
-      frontend: ["React", "TypeScript", "Redux", "Material-UI"],
+      frontend: [
+        "React.js", "TypeScript", "Redux", "Next.js",
+        "React Native", "Three.js", "Tailwind CSS"
+      ],
+      desktop: ["Electron", "PyQt", "Qt"],
       backend: ["Node.js", "Express", "Python", "FastAPI"],
-      database: ["MongoDB", "MySQL", "SQLite", "SQLAlchemy"],
-      desktop: ["PyQt", "Qt"],
+      database: ["MongoDB", "MySQL", "SQLite", "Prisma", "SQLAlchemy"],
+      tools: ["Git", "Vite", "Webpack", "Docker"],
       interests: ["Chess ♟️", "Problem Solving 🧩", "System Design 🏗️"]
     };
   }
 
-  getContact() {
+  getRecentProjects() {
     return {
-      email: "medhatashour19@gmail.com",
-      twitter: "@medhatjachour",
-      linkedin: "medhatjachour"
+      "Electron App": "Full-stack desktop application with React & TypeScript",
+      "Velox Platform": "Enterprise platform with modern tech stack",
+      "Doctor App": "Healthcare appointment management system",
+      "Portfolio": "Personal portfolio with React Native & advanced animations"
     };
   }
 }
 
 const medhat = new SoftwareEngineer();
-console.log(medhat.getCurrentFocus());
+console.log("Ready to build amazing software! 🎯");
 ```
 
 <!-- Animated Divider -->
@@ -79,19 +86,31 @@ console.log(medhat.getCurrentFocus());
 
 <!-- Tech Stack with 3D Icons -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
 </h2>
 
 <div align="center">
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🎯 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 📱 Cross-Platform Development
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -99,16 +118,20 @@ console.log(medhat.getCurrentFocus());
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🖥️ Desktop Development
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -126,8 +149,34 @@ console.log(medhat.getCurrentFocus());
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhatjachour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhatjachour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=medhatjachour&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects -->
+<h2 align="center">
+  🌟 Featured Projects
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/medhatjachour/electron-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medhatjachour&repo=electron-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/medhatjachour/velox-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medhatjachour&repo=velox-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/medhatjachour/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medhatjachour&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/medhatjachour/doctorApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medhatjachour&repo=doctorApp&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+</a>
+
 </div>
 
 <!-- Animated Divider -->
@@ -161,9 +210,31 @@ console.log(medhat.getCurrentFocus());
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Skills Visualization -->
+<h2 align="center">
+  💼 Professional Expertise
+</h2>
+
+<div align="center">
+
+```text
+Web Development      ████████████████████░   95%
+Desktop Apps         ███████████████████░░   90%
+Mobile Development   ████████████████░░░░░   80%
+Backend Systems      ███████████████████░░   90%
+Database Design      ██████████████████░░░   85%
+3D Graphics (Three)  ███████████████░░░░░░   75%
+UI/UX Design         ████████████████░░░░░   80%
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Random Dev Quote -->
 <h2 align="center">
-  💭 Dev Quote
+  💭 Dev Quote of the Day
 </h2>
 
 <div align="center">
@@ -199,7 +270,23 @@ console.log(medhat.getCurrentFocus());
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+### 🎯 What I Can Help You With
+
+```javascript
+const services = {
+  webDevelopment: ["React Apps", "Next.js Sites", "Full Stack Solutions"],
+  desktopApps: ["Electron Applications", "Cross-platform Tools"],
+  mobileDev: ["React Native Apps", "Hybrid Solutions"],
+  backend: ["Node.js APIs", "Python Services", "Database Design"],
+  consulting: ["Code Review", "Architecture Design", "Tech Stack Selection"]
+};
+```
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 </div>
 
@@ -209,12 +296,46 @@ console.log(medhat.getCurrentFocus());
 <!-- Fun Fact Section -->
 <div align="center">
 
-### ⚡ Fun Fact
+### ⚡ Fun Facts About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br/>
+      <b>Chess Enthusiast ♟️</b><br/>
+      <em>Strategic thinking translates to elegant code!</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"><br/>
+      <b>Problem Solver 🧩</b><br/>
+      <em>Love tackling complex algorithms!</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🚀 Early Adopter</b><br/>
+      <em>Always exploring new technologies</em>
+    </td>
+    <td align="center" width="50%">
+      <b>📚 Continuous Learner</b><br/>
+      <em>Currently diving deep into 3D web graphics</em>
+    </td>
+  </tr>
+</table>
 
-**I'm a chess enthusiast ♟️ and puzzle solver 🧩**  
-*Strategic thinking in chess translates to elegant problem-solving in code!*
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Metrics -->
+<h2 align="center">
+  📉 Detailed GitHub Metrics
+</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medhatjachour&theme=radical" alt="GitHub Profile Summary" />
 
 </div>
 
@@ -227,8 +348,10 @@ console.log(medhat.getCurrentFocus());
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring repositories you find interesting!
 
 ![](https://hit.yhype.me/github/profile?user_id=53466991)
+
+**"First, solve the problem. Then, write the code."** – John Johnson
 
 </div>
