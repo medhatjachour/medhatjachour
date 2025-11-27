@@ -49,7 +49,7 @@ class SoftwareEngineer {
       "Cross-platform development (Web, Desktop, Mobile) 📱💻",
       "Advanced React patterns & TypeScript ⚛️",
       "3D web experiences with Three.js 🎨",
-      "Exploring cloud architecture ☁️"
+      "Cloud architecture with Azure ☁️"
     ];
   }
 
@@ -62,6 +62,7 @@ class SoftwareEngineer {
       desktop: ["Electron", "PyQt", "Qt"],
       backend: ["Node.js", "Express", "Python", "FastAPI"],
       database: ["MongoDB", "MySQL", "SQLite", "Prisma", "SQLAlchemy"],
+      cloud: ["Azure", "CI/CD", "YAML Pipelines"],
       tools: ["Git", "Vite", "Webpack", "Docker"],
       interests: ["Chess ♟️", "Problem Solving 🧩", "System Design 🏗️"]
     };
@@ -125,13 +126,18 @@ console.log("Ready to build amazing software! 🎯");
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -222,6 +228,7 @@ Web Development      ███████████████████�
 Desktop Apps         ███████████████████░░   90%
 Mobile Development   ████████████████░░░░░   80%
 Backend Systems      ███████████████████░░   90%
+Cloud & DevOps       ███████████████████░░   90%
 Database Design      ██████████████████░░░   85%
 3D Graphics (Three)  ███████████████░░░░░░   75%
 UI/UX Design         ████████████████░░░░░   80%
@@ -278,6 +285,7 @@ const services = {
   desktopApps: ["Electron Applications", "Cross-platform Tools"],
   mobileDev: ["React Native Apps", "Hybrid Solutions"],
   backend: ["Node.js APIs", "Python Services", "Database Design"],
+  cloudDevOps: ["Azure Deployments", "CI/CD Pipelines", "YAML Automation"],
   consulting: ["Code Review", "Architecture Design", "Tech Stack Selection"]
 };
 ```
