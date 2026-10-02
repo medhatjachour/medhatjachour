@@ -7,7 +7,14 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Specialized+in+React+%26+Modern+Web+Tech+%E2%9A%9B%EF%B8%8F;Desktop+%26+Mobile+App+Developer+%F0%9F%92%BB%F0%9F%93%B1;Available+for+Freelance+Projects+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%E2%80%94+React%2C+TypeScript+%26+Node.js;Building+web+and+desktop+applications;Open+to+engineering+roles+%E2%80%94+remote+or+relocation+%28UAE+%2F+KSA%29" alt="Typing SVG" />
+</p>
+
+<!-- Primary links: the first thing a recruiter looks for -->
+<p align="center">
+  <a href="https://medhatjachour.tech"><img src="https://img.shields.io/badge/Portfolio-medhatjachour.tech-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/medhatjachour"><img src="https://img.shields.io/badge/LinkedIn-medhatjachour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:medhatashour19@gmail.com"><img src="https://img.shields.io/badge/Email-medhatashour19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 
@@ -27,20 +34,20 @@
 class SoftwareEngineer {
   constructor() {
     this.name = "Medhat Ashour";
-    this.role = "Full Stack Software Engineer";
+    this.role = "Software Engineer — React, TypeScript & Node.js";
     this.location = "Egypt 🇪🇬";
-    this.website = "https://medhatjachour.com";
+    this.website = "https://medhatjachour.tech";
     this.email = "medhatashour19@gmail.com";
-    this.availability = "Open for Freelance 💼";
+    this.availability = "Open to engineering roles — remote, or relocation to UAE / KSA";
   }
 
   getCurrentFocus() {
     return [
-      "Building scalable web & desktop applications 🚀",
-      "Cross-platform development (Web, Desktop, Mobile) 📱💻",
-      "Advanced React patterns & TypeScript ⚛️",
-      "3D web experiences with Three.js 🎨",
-      "Cloud architecture with Azure ☁️"
+      "Web engineering with React, TypeScript and Node.js",
+      "Desktop applications with Electron and Prisma",
+      "Testing and performance budgets — Vitest, p95/p99 targets",
+      "Accessibility and design systems",
+      "3D web experiences with Three.js"
     ];
   }
 
@@ -59,12 +66,11 @@ class SoftwareEngineer {
     };
   }
 
-  getRecentProjects() {
+  getShippedWork() {
     return {
-      "Electron App": "Full-stack desktop application with React & TypeScript",
-      "Velox Platform": "Enterprise platform with modern tech stack",
-      "Doctor App": "Healthcare appointment management system",
-      "Portfolio": "Personal portfolio with React Native & advanced animations"
+      "BizFlow": "Offline-first POS, inventory and finance desktop app — Electron, React, TypeScript, Prisma",
+      "TransHub": "React client over a Node and PostgreSQL API",
+      "Portfolio": "React and Three.js, with a ray-traced black hole written in GLSL"
     };
   }
 }
@@ -72,6 +78,20 @@ class SoftwareEngineer {
 const medhat = new SoftwareEngineer();
 console.log("Ready to build amazing software! 🎯");
 ```
+
+### Featured work
+
+**[BizFlow](https://www.bizflow.medhatjachour.tech/)** — offline-first POS, inventory and finance
+software for small businesses. Electron + React + TypeScript + Prisma, with ten business modules
+(commerce, restaurant, bakery, pharmacy, clinic, vet, warehouse, gym, coffee), a plugin
+architecture in which modules cannot import each other, role-based access enforced in the data
+layer rather than the UI, encrypted backups and thermal receipt printing. Tested with Vitest
+against mocked repositories, plus a performance suite with p95/p99 latency budgets.
+
+**TransHub** — React client over a Node and PostgreSQL API.
+
+**[Portfolio](https://medhatjachour.tech)** — React and Three.js, including a ray-traced black hole
+rendered from Schwarzschild null geodesics in a custom GLSL shader.
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -160,10 +180,6 @@ console.log("Ready to build amazing software! 🎯");
 
 <div align="center">
   
-### Show some ❤️ by starring repositories you find interesting!
-
-![](https://hit.yhype.me/github/profile?user_id=53466991)
-
-**"First, solve the problem. Then, write the code."** – John Johnson
+**"First, solve the problem. Then, write the code."** — John Johnson
 
 </div>
